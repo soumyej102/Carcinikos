@@ -14,4 +14,4 @@ We have used a modified CNN with multiple layers for detecting the presence of l
 Building an application that can help in the early diagnosis of lung cancer and prostate gland cancer in men.
 
 ### Data:
-The data folder only contains a part of images used. Please do keep the same in mind before proposing any changes justified by the accuracy of the model using these images.
+The data folder only contains a part of images used. Please do keep the same in mind before proposing any changes justified by the accuracy of your proposed model using these images.
