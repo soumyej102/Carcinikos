@@ -2,12 +2,13 @@
 
 
 ### Problem : 
-
-Prostate cancer is one of the most common types of cancer. Many prostate cancers grow slowly and are confined to the prostate gland, where they may not cause serious harm. However, while some types of prostate cancer grow slowly and may need minimal or even no treatment, other types are aggressive and can spread quickly.
+Prostate Gland Cancer is the second leading cancer in men and the numbers have doubled in the last decade.
+Lung cancer is the most often diagnosed cancer and leading cause of cancer-related deaths worldwide. This project aims to help in the early diagnosis of lung cancer and prostate gland cancer in men.
 
 ### Solution:
 
-This Web app will help you to detect the presence of Prostate Cancer in an individual features using the Random Forest Classifier.
+This Web app will help you to detect the presence of Prostate Cancer in an individual features using the Random Forest Classifier. This aspect of the project uses a non image dataset. 
+We have used a modified CNN with multiple layers for detecting the presence of lung cancer. We have utilized an image dataset with MRI scans for the same.
 
 ### Idea: 
 Building an application that can predict the occurrence of a cardiac arrest or the possible causes of it by indicating the highly relevant factors. 
