@@ -11,7 +11,7 @@ This Web app will help you to detect the presence of Prostate Cancer in an indiv
 We have used a modified CNN with multiple layers for detecting the presence of lung cancer. We have utilized an image dataset with MRI scans for the same.
 
 ### Idea: 
-Building an application that can predict the occurrence of a cardiac arrest or the possible causes of it by indicating the highly relevant factors. 
+Building an application that can help in the early diagnosis of lung cancer and prostate gland cancer in men.
 
 ### Layout
 
