@@ -1,7 +1,4 @@
-# Prostate Cancer Detector
-
-![home](https://user-images.githubusercontent.com/64016811/218309224-c9865c70-10a4-4f35-a182-80151212118c.png)
-
+# Lung and Prostate Cancer Detector
 
 
 ### Problem : 
