@@ -12,22 +12,3 @@ We have used a modified CNN with multiple layers for detecting the presence of l
 
 ### Idea: 
 Building an application that can help in the early diagnosis of lung cancer and prostate gland cancer in men.
-
-### Layout
-
-```
-├───images
-├───Tabs
-│   └───__pycache__
-|   └─── home.py
-|   └─── data.py
-|   └─── predict.py
-|   └─── visualize.py
-|   └─── about.py
-└───__pycache__
-└─── main.py
-└─── web_functions.py
-└─── requirements.txt
-
-```
-
