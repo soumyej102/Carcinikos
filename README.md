@@ -7,7 +7,7 @@ Lung cancer is the most often diagnosed cancer and leading cause of cancer-relat
 
 ### Solution:
 
-This Web app will help you to detect the presence of Prostate Cancer in an individual features using the Random Forest Classifier. This aspect of the project uses a non image dataset. 
+This Web app will help you to detect the presence of Prostate Cancer in an individual features using the Random Forest Classifier. This aspect of the project uses a non image dataset. /n
 We have used a modified CNN with multiple layers and custom Activation functions for detecting the presence of lung cancer. An image dataset with MRI scans for the same.
 
 ### Idea: 
